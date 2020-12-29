@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+.nav-item{
+  font-size: 20px;
+}
+body{
+  background: rgb(247, 244, 244);
+}
+.card_con{
+  height: 500px;
+  overflow: auto;
+}
